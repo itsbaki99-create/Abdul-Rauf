@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 CS Educator <br>Python & Web Developer<br>EdTech Enthusiast
 
 
